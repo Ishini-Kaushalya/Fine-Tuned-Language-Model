@@ -13,11 +13,4 @@ This project demonstrates how to fine-tune a pre-trained [GPT-2](https://hugging
 - ✅ Colab-compatible: ~10–15 mins on GPU
 - 💾 Final model is saved locally and ready for inference
 
----
 
-## 🚀 Quick Start
-
-### 1. Install dependencies
-
-```bash
-pip install -U datasets transformers accelerate peft
